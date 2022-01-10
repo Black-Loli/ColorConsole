@@ -10,7 +10,6 @@ public class Text {
             case "purple" -> System.out.print(PURPLE);
             case "aki" -> System.out.print(AKI);
             default -> {
-                System.out.println();
             }
         }
         System.out.print(string);
